@@ -1,0 +1,7 @@
+Entity Relationship (ER) Diagram is a type of flowchart that illustrates how “entities” 
+relate to each other within a system.  ERDs can be used to design databases. PK in an
+entity diagram is candidate key that is selected by the database designer to be 
+used as an identifying mechanism for the whole entity set.
+
+git status displays the state of the working directory and the staging area. git log
+ shows a list of all the commits made to a repository

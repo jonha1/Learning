@@ -1,3 +1,8 @@
+SQL Link
+https://www.youtube.com/watch?v=qw--VYLpxG4&ab_channel=freeCodeCamp.org
+
+Entity Relationship Diagram
+https://www.youtube.com/watch?v=QpdhBUYk7Kk&t=3s&ab_channel=LucidSoftware
 Entity Relationship (ER) Diagram is a type of flowchart that illustrates how “entities” 
 relate to each other within a system.  ERDs can be used to design databases. PK in an
 entity diagram is candidate key that is selected by the database designer to be 
